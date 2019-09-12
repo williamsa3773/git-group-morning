@@ -1,3 +1,3 @@
 # git-group-morning
 
-const name = 'Andre Williams'
+const name = 'Jane Austen';
